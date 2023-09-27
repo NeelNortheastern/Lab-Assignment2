@@ -1,0 +1,1 @@
+This approach allows us to handle lines of different sizes dynamically using ArrayList. We read the input from `System.in`, store the lines in the ArrayList, and then retrieve the numbers at the specified positions based on the given queries.
